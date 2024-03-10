@@ -1,2 +1,2 @@
-# Practica-05-docker
-Repositorio de docker compose
+# Practica-wordpress-bitnami
+Repositorio de wordpress bitnami
